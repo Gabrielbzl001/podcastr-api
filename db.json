@@ -2,13 +2,13 @@
   "episodes": [
     {
       "id": "audio-teste2",      
-      "title": "Halsey Song",
+      "title": "Halseyasd Song",
       "members": "Halsey",
       "published_at": "2021-05-05 16:35:40",
       "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
       "description": "<p>Tentando puxar do Google Drive</p>",
       "file": {
-        "url": "http://docs.google.com/uc?export=open&id=0B3X9AFHIbFX_ZHo0eXVlM0E4Q0U",
+        "url": "https://ghos.tk/audio.mp3",
         "type": "audio/mp3",
         "duration": 260
       }
