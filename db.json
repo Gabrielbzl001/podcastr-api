@@ -1,16 +1,16 @@
 {
   "episodes": [
     {
-      "id": "halsey-audio",      
-      "title": "Halsey Song",
-      "members": "Halsey",
-      "published_at": "2021-05-05 16:35:40",
+      "id": "audio-teste2",      
+      "title": "Margin Garrix2 Bebe - In the name of Love",
+      "members": "Johnny Haranaka, Gabriel Lima",
+      "published_at": "2021-04-25 16:35:40",
       "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
-      "description": "<p>Testando puxar do Google Drive</p>",
+      "description": "<p>To puxando esse áudio de um arquivo que subi no github</p><p>O Faladev é um podcast original Rocketseat.</p>",
       "file": {
         "url": "https://ghos.tk/audio.mp3",
         "type": "audio/mp3",
-        "duration": 280
+        "duration": 198
       }
     },
     {
